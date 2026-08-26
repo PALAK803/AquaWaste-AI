@@ -89,8 +89,7 @@ The application contains the following modules:
 ## 🌐 Live Demo
 
 **Live Application:**  
-https://aquawaste-ai-dkcsedywdds4ldbhe13yay.streamlit.app/
-
+https://aquawaste-ai-dkcsedywdds4ldbhel3yqy.streamlit.app/
 ## 📂 Project Structure
 
 ```text
