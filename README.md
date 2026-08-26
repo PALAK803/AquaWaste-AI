@@ -91,6 +91,48 @@ The application contains the following modules:
 **Live Application:**  
 https://aquawaste-ai-dkcsedywdds4ldbhel3yqy.streamlit.app/
 ## 📂 Project Structure
+## 🛠️ Technology Stack
+
+- Python
+- Streamlit
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Data Visualization
+- Machine Learning
+
+## 🎯 Project Highlights
+
+- Interactive dashboard for water and waste management
+- Water-consumption monitoring and trend analysis
+- Machine-learning based anomaly detection using Isolation Forest
+- Waste categorization and disposal recommendations
+- Sustainability analytics and scoring
+- Contextual AI sustainability recommendations
+- Interactive Streamlit web application
+
+## 📊 Key Metrics
+
+The application provides insights into:
+
+- Total water consumption
+- Average daily water consumption
+- Latest water consumption
+- Per-person water consumption
+- Total and recyclable waste
+- Sustainability score
+- Historical consumption trends
+
+## 🚀 Future Improvements
+
+- Real-time IoT water-meter integration
+- Advanced predictive water-consumption forecasting
+- More comprehensive waste classification
+- Database integration for persistent user data
+- Automated sustainability alerts
+- Deployment with scalable cloud infrastructure
+
 
 ```text
 AquaWaste-AI/
